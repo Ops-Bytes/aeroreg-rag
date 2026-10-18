@@ -1,0 +1,8 @@
+{"id": "q001", "question": "What failure probability is required for catastrophic failure conditions in transport airplane systems?", "relevant_sections": ["25.1309"]}
+{"id": "q101", "question": "What requirements apply to significant latent failures in airplane systems?", "relevant_sections": ["25.1309"]}
+{"id": "q111", "question": "What certification maintenance requirements must the applicant establish for failure conditions?", "relevant_sections": ["25.1309"]}
+{"id": "q102", "question": "What must happen when the pilot disengages the autopilot, and what warning must the pilot receive?", "relevant_sections": ["25.1329"]}
+{"id": "q112", "question": "How must the flight guidance system indicate its current mode of operation, including armed modes and mode transitions?", "relevant_sections": ["25.1329"]}
+{"id": "q103", "question": "What alerts must the flightcrew receive for abnormal system conditions, and how are they prioritized?", "relevant_sections": ["25.1322"]}
+{"id": "q104", "question": "What must flight deck controls and information provide so the flightcrew can safely perform their tasks and manage errors?", "relevant_sections": ["25.1302"]}
+{"id": "q105", "question": "What must the pilot be told when a flight instrument loses adequate power?", "relevant_sections": ["25.1331"]}

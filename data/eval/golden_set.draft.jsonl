@@ -1,0 +1,5 @@
+{"id": "q106", "question": "How must stability augmentation and automatic or power-operated systems handle failures?", "relevant_sections": ["25.672"], "verified": false}
+{"id": "q107", "question": "How must electronic systems be shown to tolerate lightning-induced voltages and currents?", "relevant_sections": ["25.1316"], "verified": false}
+{"id": "q108", "question": "What must happen to essential loads if the normal electrical power source is lost?", "relevant_sections": ["25.1351"], "verified": false}
+{"id": "q109", "question": "What are the requirements for automatic flight control or autopilot systems in rotorcraft?", "relevant_sections": ["27.1329", "29.1329"], "verified": false}
+{"id": "q110", "question": "How do I show that software in an airplane system will not cause an unsafe condition?", "relevant_sections": ["25.1309"], "verified": false, "note": "borderline: the CFR does not mention software; likely a corpus-gap question"}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ECFR>
+  <DIV5 N="25" TYPE="PART">
+    <HEAD>PART 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES</HEAD>
+    <DIV6 N="B" TYPE="SUBPART">
+      <HEAD>Subpart B—Flight</HEAD>
+      <DIV8 N="§ 25.101" TYPE="SECTION">
+        <HEAD>§ 25.101 General.</HEAD>
+        <P>(a) Each performance requirement of this subpart must be met for ambient atmospheric conditions and still air.</P>
+        <P>(b) The performance must correspond to the propulsive thrust available under the particular ambient atmospheric conditions.</P>
+      </DIV8>
+      <DIV8 N="§ 25.102" TYPE="SECTION">
+        <HEAD>§ 25.102 [Reserved]</HEAD>
+      </DIV8>
+    </DIV6>
+    <DIV6 N="F" TYPE="SUBPART">
+      <HEAD>Subpart F—Equipment</HEAD>
+      <DIV8 N="§ 25.1309" TYPE="SECTION">
+        <HEAD>§ 25.1309 Equipment, systems, and installations.</HEAD>
+        <P>(a) The equipment, systems, and installations whose functioning is required by this subchapter must be designed to ensure that they perform their intended functions under any foreseeable operating condition.</P>
+        <P>(b) The airplane systems and associated components must be designed so that any catastrophic failure condition is extremely improbable.</P>
+      </DIV8>
+    </DIV6>
+  </DIV5>
+</ECFR>
